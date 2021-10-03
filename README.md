@@ -13,3 +13,19 @@ It is a popular research area of Artificial Intelligence that deals with image u
 ![3](https://user-images.githubusercontent.com/55491822/135726653-2f0ed99e-f8be-45c9-9ba2-379853af1232.PNG)
 
 
+## Dataset Information
+
+Here, I have used [COCO Dataset 2017](https://cocodataset.org/#download) which contains 12 different types of categories and among them it has 80 types of sub-categories. Each sub categories contain list of images and five captions to each image.
+
+[Dataset download link](https://www.kaggle.com/kamhar/cocods)
+
+## Prerequisite Technical Skills
+- Python
+- Tensflow
+- Keras
+- NLTK
+- OpenCV
+
+## Kaggle Link
+You will get step by step guidence about this project by clicking on this link: 
+https://www.kaggle.com/ysthehurricane/image-caption-generator-tutorial
